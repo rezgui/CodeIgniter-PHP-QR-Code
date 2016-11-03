@@ -1,15 +1,15 @@
-Codeigniter PHP QR Code
+Codeigniter PHP QR Code forked from dwisetiyadi/CodeIgniter-PHP-QR-Code
 =======================
 
-Version 1 - Dec 2011
-by dwi.setiyadi@gmail.com
+Version 1 - Nov 2016
+by yacine.rezgui@gmail.com
 
 
 
 Introduction
 ------------
 
-This a library for CodeIgniter Framework to make QR Code from some string given, a porting code from http://phpqrcode.sourceforge.net/.
+This a library for CodeIgniter Framework to make QR Code from some string given, forked from dwisetiyadi/CodeIgniter-PHP-QR-Code and a porting code from http://phpqrcode.sourceforge.net/.
 
 
 Installation and Requirements
